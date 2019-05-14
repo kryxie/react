@@ -1,0 +1,12 @@
+.top-wrapper {
+    height: 55px;
+    padding: 10px 15px;
+    border-bottom: 1px solid gainsboro;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    width: 100%;
+    background: white;
+}

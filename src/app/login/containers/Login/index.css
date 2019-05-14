@@ -1,0 +1,6 @@
+.login-form-wrapper {
+    height: 100vh;
+}
+.login-form-wrapper .card {
+    top: calc(50vh - 175px);
+}
